@@ -1,0 +1,34 @@
+body {
+   
+background-color: black;
+
+
+}
+
+ h1, h2, h3, h4     {
+        color: white;
+}
+
+.carousel {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.slide {
+  width: 100%;
+  display: none;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+}
+
+/* Configuração do carrossel */
+.slide:first-child {
+  display: block;}
+
+  .traviss {
+    text-align: center;
+  }
